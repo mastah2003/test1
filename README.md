@@ -1,2 +1,2 @@
 # test1
-first_app
+repozytorium grupy1.
